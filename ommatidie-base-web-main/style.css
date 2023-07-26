@@ -1,0 +1,984 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'MingLiU-ExtB';
+
+}
+#slider2{
+	overflow: hidden;
+}
+#slider2 figure{
+	position: relative;
+	width: 1000%;
+	margin: 0;
+	left: 0;
+	animation: 60s slider2 infinite;
+}
+
+#slider2 figure img{
+	float: left;
+	width: 10%;
+}
+@keyframes slider2{
+	0%{
+		left:0;
+	}
+	10%{
+		left:0;
+	}
+	15%{
+		left:-100%;
+	}
+	20%{
+		left:-100%;
+	}
+	25%{
+		left:-200%;
+	}
+	30%{
+		left:-200%;
+	}
+	35%{
+		left:-300%;
+	}
+	40%{
+		left:-300%;
+	}
+	45%{
+		left:-400%;
+	}
+	50%{
+		left:-400%;
+	}
+	55%{
+		left:-500%;
+	}
+	60%{
+		left:-500%;
+	}
+	65%{
+		left:-600%;
+	}
+	70%{
+		left:-600%;
+	}
+	75%{
+		left:-700%;
+	}
+	80%{
+		left:-700%;
+	}
+	85%{
+		left:-800%;
+	}
+	90%{
+		left:-800%;
+	}
+	95%{
+		left:-900%;
+	}
+	100%{
+		left:-900%;
+	}
+
+
+}
+
+
+#slider {
+	overflow: hidden;
+}
+#slider figure {
+	position: relative;
+	width: 5000%;
+	margin: 0;
+	left: 0;
+	animation:80s slider infinite;
+}
+#slider figure img {
+	float: left;
+	width: 2%;
+}
+
+@keyframes slider { 
+	0% {
+		left:0;
+	}
+	2% { 
+		left:0;
+	}
+	3% {
+		left:-100%;
+	}
+	4% {
+		left:-100%;
+	}
+	5% {
+		left:-200%;
+	}
+	6% {
+		left:-200%;
+	}
+	7% {
+		left:-300%;
+	}
+	8% {
+		left:-300%;
+	}
+	9% {
+		left:-400%;
+	}
+	10% {
+		left:-400%;
+	}
+	11% {
+		left:-500%;
+	}
+	12% {
+		left:-500%;
+	}
+	13% {
+		left:-600%;
+	}
+	14% { 
+		left:-600%;
+	}
+	15% {
+		left:-700%;
+	}
+	16% {
+		left:-700%;
+	}
+	17% {
+		left:-800%;
+	}
+	18% {
+		left:-800%;
+	}
+	19% {
+		left:-900%;
+	}
+	20% {
+		left:-900%;
+	}
+	21% {
+		left:-1000%;
+	}
+	22% {
+		left:-1000%;
+	}
+	23% {
+		left:-1100%;
+	}
+	24% {
+		left:-1100%;
+	}
+	25% {
+		left:-1200%;
+	}
+	26% { 
+		left:-1200%;
+	}
+	27% {
+		left:-1300%;
+	}
+	28% {
+		left:-1300%;
+	}
+	29% {
+		left:-1400%;
+	}
+	30% {
+		left:-1400%;
+	}
+	31% {
+		left:-1500%;
+	}
+	32% {
+		left:-1500%;
+	}
+	33% {
+		left:-1600%;
+	}
+	34% {
+		left:-1600%;
+	}
+	35% {
+		left:-1700%;
+	}
+	36% {
+		left:-1700%;
+	}
+	37% {
+		left:-1800%;
+	}
+	38% { 
+		left:-1800%;
+	}
+	39% {
+		left:-1900%;
+	}
+	40% {
+		left:-1900%;
+	}
+	41% {
+		left:-2000%;
+	}
+	42% {
+		left:-2000%;
+	}
+	43% {
+		left:-2100%;
+	}
+	44% {
+		left:-2100%;
+	}
+	45% {
+		left:-2200%;
+	}
+	46% {
+		left:-2200%;
+	}
+	47% {
+		left:-2300%;
+	}
+	48% {
+		left:-2300%;
+	}
+	49% {
+		left:-2400%;
+	}
+	50% { 
+		left:-2400%;
+	}
+	51% {
+		left:-2500%;
+	}
+	52% {
+		left:-2500%;
+	}
+	53% {
+		left:-2600%;
+	}
+	54% {
+		left:-2600%;
+	}
+	55% {
+		left:-2700%;
+	}
+	56% {
+		left:-2700%;
+	}
+	57% {
+		left:-2800%;
+	}
+	58% {
+		left:-2800%;
+	}
+	59% {
+		left:-2900%;
+	}
+	60% {
+		left:-2900%;
+	}
+	61% {
+		left:-3000%;
+	}
+	62% { 
+		left:-3000%;
+	}
+	63% {
+		left:-3100%;
+	}
+	64% {
+		left:-3100%;
+	}
+	65% {
+		left:-3200%;
+	}
+	66% {
+		left:-3200%;
+	}
+	67% {
+		left:-3300%;
+	}
+	68% {
+		left:-3300%;
+	}
+	69% {
+		left:-3400%;
+	}
+	70% {
+		left:-3400%;
+	}
+	71% {
+		left:-3500%;
+	}
+	72% {
+		left:-3500%;
+	}
+	73% {
+		left:-3600%;
+	}
+	74% { 
+		left:-3600%;
+	}
+	75% {
+		left:-3700%;
+	}
+	76% {
+		left:-3700%;
+	}
+	77% {
+		left:-3800%;
+	}
+	78% {
+		left:-3800%;
+	}
+	79% {
+		left:-3900%;
+	}
+	80% {
+		left:-3900%;
+	}
+	81% {
+		left:-4000%;
+	}
+	82% {
+		left:-4000%;
+	}
+	83% {
+		left:-4100%;
+	}
+	84% {
+		left:-4100%;
+	}
+	85% {
+		left:-4200%;
+	}
+	86% { 
+		left:-4200%;
+	}
+	87% {
+		left:-4300%;
+	}
+	88% {
+		left:-4300%;
+	}
+	89% {
+		left:-4400%;
+	}
+	90% {
+		left:-4400%;
+	}
+	91% {
+		left:-4500%;
+	}
+	92% {
+		left:-4500%;
+	}
+	93% {
+		left:-4600%;
+	}
+	94% {
+		left:-4600%;
+	}
+	95% {
+		left:-4700%;
+	}
+	96% {
+		left:-4700%;
+	}
+	97% {
+		left:-4800%;
+	}
+	98% {
+		left:-4800%;
+	}
+	99% {
+		left:-4900%;
+	}
+	100% {
+		left:-4900%;
+	}
+
+}
+.landscape {
+	filter: grayscale(0%);
+    
+}
+.artpics {
+  width: 100%;
+  height: 400px;
+  object-fit: contain;
+}
+
+/* navbar */
+
+.navbar-nav{
+	margin-right: 0 !important;
+	padding-right: 0px;
+}
+.navbar{
+	background-color: #FFFFFF;
+	color: #000 !important;
+}
+.nav-item a{
+	color: #000 !important;
+}
+.nav-item {
+	padding-left: 10px;
+}
+.navbar-brand{
+	color: #000 !important;
+	padding-left: 10px;
+	display: inline;
+} 	
+#navbar button{
+	color: #000 !important;
+}
+
+
+
+/* banner */
+
+#banner-container{
+	background-color: #70726E;
+	color: #000 !important;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+#banner-row img{
+	max-width: 65%;
+	height: auto;
+	display: block;
+	padding-left: 30px;
+}
+
+#banner-row a{
+	background-color: #fff !important;
+	color: #000 !important;
+	border: none;
+	margin-left: 20px;
+	margin-top: 20px; 
+}
+.
+
+#banner-row h3,p{
+	padding-left: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+#banner-col{
+	padding-left: 20px;
+}
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.image1 {
+  position: relative;
+  
+  z-index: 1;
+}
+
+.image2 {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0;
+	left: 0;
+	right: 0;
+	text-align: center;
+ 	z-index: 2;	
+}
+.text3 {
+	position: absolute;
+	margin-left: 10%;
+	margin-right: 10%;
+	top: 25%;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 3;
+}
+.text4 {
+	position: absolute;
+	margin-left: 10%;
+	margin-right: 10%;
+	top: 50%;
+	left: 0;
+	right: 0;
+	text-align: center;
+
+	z-index: 3;
+}
+
+.image6 {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 90%;
+	left: 0;
+	right: 0;
+	text-align: center;
+ 	z-index: 2;	
+}
+.image7 {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 95%;
+	left: 0;
+	right: 0;
+	text-align: center;
+ 	z-index: 2;	
+}
+.image8 {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 100%;
+	left: 0;
+	right: 0;
+	text-align: center;
+ 	z-index: 2;	
+}
+/* Exposition */
+
+#Exposition{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+#Exposition h1{
+	padding-bottom: 30px;
+}
+
+.wrapper{
+  position: relative;
+  top: 0;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+.wrapper{
+  display: block;
+  font-size: 24px;
+  text-decoration: none;
+  font-family: ;
+  color: #333;
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+  padding: 10px;
+  letter-spacing: 2px;
+  transition: all .25s;
+}
+
+
+.wrapper:hover{
+  letter-spacing: 15px;
+}    
+#slider3{
+	overflow: hidden;
+}
+#slider3 figure{
+	position: relative;
+	width: 2000%;
+	margin: 0;
+	left: 0;
+	animation: 50s slider3 infinite;
+}
+
+#slider3 figure img{
+	float: left;
+	width: 5%;
+}
+@keyframes slider3{
+	0%{
+		left:0;
+	}
+	5%{
+		left:0;
+	}
+	7%{
+		left:-100%;
+	}
+	10%{
+		left:-100%;
+	}
+	13%{
+		left:-200%;
+	}
+	15%{
+		left:-200%;
+	}
+	17%{
+		left:-300%;
+	}
+	20%{
+		left:-300%;
+	}
+	23%{
+		left:-400%;
+	}
+	25%{
+		left:-400%;
+	}
+	27%{
+		left:-500%;
+	}
+	30%{
+		left:-500%;
+	}
+	33%{
+		left:-600%;
+	}
+	35%{
+		left:-600%;
+	}
+	37%{
+		left:-700%;
+	}
+	40%{
+		left:-700%;
+	}
+	43%{
+		left:-800%;
+	}
+	45%{
+		left:-800%;
+	}
+	47%{
+		left:-900%;
+	}
+	50%{
+		left:-900%;
+	}
+	53%{
+		left:-1000%;
+	}
+	55%{
+		left:-1000%;
+	}
+	57%{
+		left:-1100%;
+	}
+	60%{
+		left:-1100%;
+	}
+	63%{
+		left:-1200%;
+	}
+	65%{
+		left:-1200%;
+	}
+	67%{
+		left:-1300%;
+	}
+	70%{
+		left:-1300%;
+	}
+	73%{
+		left:-1400%;
+	}
+	75%{
+		left:-1400%;
+	}
+	77%{
+		left:-1500%;
+	}
+	80%{
+		left:-1500%;
+	}
+	83%{
+		left:-1600%;
+	}
+	85%{
+		left:-1600%;
+	}
+	87%{
+		left:-1700%;
+	}
+	90%{
+		left:-1700%;
+	}
+	93%{
+		left:-1800%;
+	}
+	95%{
+		left:-1800%;
+	}
+	97%{
+		left:-1900%;
+	}
+	100%{
+		left:-2000%;
+	}
+}
+.artpics2 {
+  width: 100%;
+  height: 400px;
+  object-fit: contain;
+}
+/* Artistes */
+
+#Artistes{
+	background-color: #70726E;
+	padding-top: 80px;
+	padding-bottom: 80px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    color: #FFF ;
+}
+.artisteboite{
+	margin-left: 3%;
+	margin-right: 3%;
+}	
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}	
+.image5 {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: -90px;
+	left: 0;
+	right: 0;
+	text-align: center;
+ 	z-index: 2;	
+
+}
+
+.column2{
+	float: left;
+  width: 50%;
+  padding: 0px;
+}
+.column3{
+	float: left;
+  width: 33.33%;
+  padding: 0px;
+}
+.column4{
+	float: left;
+  width: 25%;
+  padding: 0px;
+}
+.column5{
+	float: left;
+  width: 20%;
+  padding: 0px;
+}
+.row::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+.oeuvresartistes {
+	 width: 100%;
+     height: 300px;
+     object-fit: contain;
+     margin: auto;
+     background-color:white;
+
+}
+.oeuvresartistes2 {
+	 width: 100%;
+     height: 300px;
+     object-fit: contain;
+     margin: auto;
+     background-color:black;
+     border-style: solid;
+  border-color: black;
+
+}
+.wrapper2{
+  position: relative;
+  top: 50px;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  top: -10px;
+}
+
+.wrapper2{
+  display: block;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: ;
+  color: #fff;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  padding: 0px;
+  letter-spacing: 2px;
+  transition: all .25s;
+  top: -10px;
+}
+
+.btn {
+  text-transform: uppercase;
+  color: white;
+  text-decoration: white;
+  top: -10px;
+} 
+ 
+.btn:hover .btn-slide-show-text1 {
+  margin-left: 5px;
+  color: #fff;
+  text-decoration: white;
+}
+.btn {
+  
+  color: white;
+  text-decoration: white;
+} 
+.btn  a:visited {
+  
+color:  #E7BDEE;
+
+} 
+.btn  a {
+  color: #fff;
+}
+
+.btn  a:hover, a:active, a:focus {
+  color:#000;
+}
+ 
+
+
+.lien{
+   
+    
+    text-align: center;
+    
+    }
+
+.lien a:link {
+    width: 30%;
+    height: 30%;
+    border-radius: 10%;
+    background-color: #464646;
+    color: white;
+    text-decoration: white;
+    margin: 30px; 
+    padding: 30px;
+    border-color: black 5px; 
+    
+  
+    
+    }
+
+a:visited {
+    
+   color:gray;
+   
+    
+    }
+
+a:hover {
+    
+    color: black;
+    
+    }
+
+a:active{
+    
+
+    }
+
+
+#Artistes img {
+    width: 100%;
+	
+    
+}
+
+#Artistes table {
+	margin-bottom: 100px;
+}
+
+
+#Artistes h1{
+	padding-bottom: 70px;
+}
+#Artistes-col ul{
+	padding-top: 50px;
+	padding-left: 50px;
+}
+#Artistes-col ul li{
+	padding-top: 15px;
+}
+
+td.second {
+	padding-bottom: 0;
+    display: flex;
+    
+   
+    
+
+}
+
+#Artistes td .autres_img{
+	padding-top: 10px;
+    border-image-width: auto;
+    width: 50%;
+   
+    
+    
+}
+
+/* Soirée Évènement */
+#Soiree evenement-container{
+	padding-top: 80px;
+	padding-bottom: 80px;
+   display: flex;
+}
+
+#Soiree evenement-container h1{
+	padding-bottom: 70px;
+}
+#Soiree evenement-col2 ul{
+	padding-top: 90px;
+}
+
+#Soiree evenement-col2 ul li{
+	padding-top: 15px;
+}
+
+#Exposition-col2{
+    align-self: center;
+    }
+    
+/* footer */
+.contacter{
+color: #FFF
+}
+.mb-3{
+	padding-top: 10px;
+	
+}
+
+@media only screen and (max-width:960px)
+{
+	.navbar-brand{
+		padding-left:0;
+	}
+}
+@media only screen and (max-width:760px)
+{
+	#banner-row img{
+		padding-top:20px;
+	}
+	.social-col{
+		width: 33%;
+	}
+}
