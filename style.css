@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: 'MingLiU-ExtB';
+	font-family: 'Garamond';
 
 }
 #slider2{
@@ -488,7 +488,7 @@
 	position: absolute;
 	margin-left: auto;
 	margin-right: auto;
-	top: 0;
+	top: 10%;
 	left: 0;
 	right: 0;
 	text-align: center;
@@ -498,7 +498,7 @@
 	position: absolute;
 	margin-left: 10%;
 	margin-right: 10%;
-	top: 25%;
+	top: 35%;
 	left: 0;
 	right: 0;
 	text-align: center;
@@ -520,7 +520,7 @@
 	position: absolute;
 	margin-left: auto;
 	margin-right: auto;
-	top: 90%;
+	top: 80%;
 	left: 0;
 	right: 0;
 	text-align: center;
@@ -530,7 +530,7 @@
 	position: absolute;
 	margin-left: auto;
 	margin-right: auto;
-	top: 95%;
+	top: 85%;
 	left: 0;
 	right: 0;
 	text-align: center;
@@ -540,7 +540,7 @@
 	position: absolute;
 	margin-left: auto;
 	margin-right: auto;
-	top: 100%;
+	top: 90%;
 	left: 0;
 	right: 0;
 	text-align: center;
